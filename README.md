@@ -54,8 +54,20 @@ Buscar o saldo pelo endereço
 
 
 
+## Semana 4: Criar um CRUD (editar, criar e atualizar) no soroban, o contrato vai ser um registro simples de um livro com os seguintes requisitos:
+
+- **Título do Livro**
+- **Autor do Livro**
+- **Ano**
+Início: 19/02  
+Entrega: 26/02
+
+<img src="https://github.com/user-attachments/assets/8d85277a-445a-49db-b29e-0d36fede5f20" alt="CLI Wallet" width="400">
+
+
+
 ## Semana 4: Decentralized Exchange
-- início: 19/02  
+- início: 26/02  
 - entrega: 05/03
 
 <img src="https://github.com/user-attachments/assets/8d85277a-445a-49db-b29e-0d36fede5f20" alt="CLI Wallet" width="400">
